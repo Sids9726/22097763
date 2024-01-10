@@ -1,0 +1,67 @@
+﻿Indicator Code: CG1520,,,,,,,,,,,
+Indicator Name: Falls,,,,,,,,,,,
+Export date: 1/9/2024 12:38:57 PM,,,,,,,,,,,
+"Source location: ""WHO Mortality Database portal""",,,,,,,,,,,
+Indicator metadata: W00-W19,,,,,,,,,,,
+,,,,,,,,,,,
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,Age-standardized death rate per 100 000 standard population,Death rate per 100 000 population
+CSA,Central and South America,ARG,Argentina,2015,All,Age00,[0],2,0.02732614,,0.26427026
+CSA,Central and South America,ARG,Argentina,2015,All,Age01_04,[1-4],3,0.24252223,,0.10142653
+CSA,Central and South America,ARG,Argentina,2015,All,Age05_09,[5-9],3,0.44709389,,0.08332086
+CSA,Central and South America,ARG,Argentina,2015,All,Age10_14,[10-14],4,0.48721072,,0.11284555
+CSA,Central and South America,ARG,Argentina,2015,All,Age15_19,[15-19],8,0.3021148,,0.22931605
+CSA,Central and South America,ARG,Argentina,2015,All,Age20_24,[20-24],9,0.25944076,,0.25466057
+CSA,Central and South America,ARG,Argentina,2015,All,Age25_29,[25-29],14,0.44331856,,0.4199431
+CSA,Central and South America,ARG,Argentina,2015,All,Age30_34,[30-34],7,0.1958042,,0.2229178
+CSA,Central and South America,ARG,Argentina,2015,All,Age35_39,[35-39],14,0.31839891,,0.44953273
+CSA,Central and South America,ARG,Argentina,2015,All,Age40_44,[40-44],14,0.25777941,,0.52426583
+CSA,Central and South America,ARG,Argentina,2015,All,Age45_49,[45-49],16,0.21444847,,0.68131755
+CSA,Central and South America,ARG,Argentina,2015,All,Age50_54,[50-54],23,0.20831446,,1.0477243
+CSA,Central and South America,ARG,Argentina,2015,All,Age55_59,[55-59],17,0.10274387,,0.85599453
+CSA,Central and South America,ARG,Argentina,2015,All,Age60_64,[60-64],20,0.08569347,,1.1216748
+CSA,Central and South America,ARG,Argentina,2015,All,Age65_69,[65-69],17,0.05712941,,1.12584795
+CSA,Central and South America,ARG,Argentina,2015,All,Age70_74,[70-74],32,0.09277514,,2.75836388
+CSA,Central and South America,ARG,Argentina,2015,All,Age75_79,[75-79],22,0.05565534,,2.56522373
+CSA,Central and South America,ARG,Argentina,2015,All,Age80_84,[80-84],36,0.07787488,,6.00516444
+CSA,Central and South America,ARG,Argentina,2015,All,Age85_over,[85+],81,0.09227404,,16.38707485
+CSA,Central and South America,ARG,Argentina,2015,All,Age_unknown,[Unknown],2,0.11855365,,
+CSA,Central and South America,ARG,Argentina,2015,Male,Age00,[0],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Male,Age01_04,[1-4],2,0.29411765,,0.13277541
+CSA,Central and South America,ARG,Argentina,2015,Male,Age05_09,[5-9],1,0.2617801,,0.05455237
+CSA,Central and South America,ARG,Argentina,2015,Male,Age10_14,[10-14],4,0.79207921,,0.2217467
+CSA,Central and South America,ARG,Argentina,2015,Male,Age15_19,[15-19],8,0.41472265,,0.45124623
+CSA,Central and South America,ARG,Argentina,2015,Male,Age20_24,[20-24],9,0.34628703,,0.50355792
+CSA,Central and South America,ARG,Argentina,2015,Male,Age25_29,[25-29],13,0.58217644,,0.77834617
+CSA,Central and South America,ARG,Argentina,2015,Male,Age30_34,[30-34],7,0.28759244,,0.44799541
+CSA,Central and South America,ARG,Argentina,2015,Male,Age35_39,[35-39],14,0.50632911,,0.91283829
+CSA,Central and South America,ARG,Argentina,2015,Male,Age40_44,[40-44],13,0.39549741,,1.00169595
+CSA,Central and South America,ARG,Argentina,2015,Male,Age45_49,[45-49],15,0.33010563,,1.32556611
+CSA,Central and South America,ARG,Argentina,2015,Male,Age50_54,[50-54],23,0.33415662,,2.193407
+CSA,Central and South America,ARG,Argentina,2015,Male,Age55_59,[55-59],15,0.14431403,,1.5916521
+CSA,Central and South America,ARG,Argentina,2015,Male,Age60_64,[60-64],17,0.11583538,,2.03868953
+CSA,Central and South America,ARG,Argentina,2015,Male,Age65_69,[65-69],12,0.06512183,,1.74937569
+CSA,Central and South America,ARG,Argentina,2015,Male,Age70_74,[70-74],24,0.11735941,,4.81510981
+CSA,Central and South America,ARG,Argentina,2015,Male,Age75_79,[75-79],12,0.05565088,,3.51598896
+CSA,Central and South America,ARG,Argentina,2015,Male,Age80_84,[80-84],12,0.05509389,,5.59892127
+CSA,Central and South America,ARG,Argentina,2015,Male,Age85_over,[85+],28,0.09430467,,20.06967043
+CSA,Central and South America,ARG,Argentina,2015,Male,Age_unknown,[Unknown],2,0.2004008,,
+CSA,Central and South America,ARG,Argentina,2015,Female,Age00,[0],2,0.06263702,,0.53869152
+CSA,Central and South America,ARG,Argentina,2015,Female,Age01_04,[1-4],1,0.18018018,,0.0688941
+CSA,Central and South America,ARG,Argentina,2015,Female,Age05_09,[5-9],2,0.69444444,,0.11315801
+CSA,Central and South America,ARG,Argentina,2015,Female,Age10_14,[10-14],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age15_19,[15-19],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age20_24,[20-24],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age25_29,[25-29],1,0.10834236,,0.06011143
+CSA,Central and South America,ARG,Argentina,2015,Female,Age30_34,[30-34],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age35_39,[35-39],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age40_44,[40-44],1,0.04666356,,0.07285433
+CSA,Central and South America,ARG,Argentina,2015,Female,Age45_49,[45-49],1,0.03430532,,0.08218291
+CSA,Central and South America,ARG,Argentina,2015,Female,Age50_54,[50-54],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age55_59,[55-59],2,0.0325309,,0.19164835
+CSA,Central and South America,ARG,Argentina,2015,Female,Age60_64,[60-64],3,0.03463803,,0.31606295
+CSA,Central and South America,ARG,Argentina,2015,Female,Age65_69,[65-69],5,0.04415401,,0.60678507
+CSA,Central and South America,ARG,Argentina,2015,Female,Age70_74,[70-74],8,0.05701254,,1.2090473
+CSA,Central and South America,ARG,Argentina,2015,Female,Age75_79,[75-79],10,0.05568549,,1.93676088
+CSA,Central and South America,ARG,Argentina,2015,Female,Age80_84,[80-84],24,0.09821977,,6.23122519
+CSA,Central and South America,ARG,Argentina,2015,Female,Age85_over,[85+],53,0.09126916,,14.93896166
+CSA,Central and South America,ARG,Argentina,2015,Female,Age_unknown,[Unknown],0,0,,

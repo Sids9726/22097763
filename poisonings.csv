@@ -1,0 +1,67 @@
+﻿Indicator Code: CG1510,,,,,,,,,,,
+Indicator Name: Poisonings,,,,,,,,,,,
+Export date: 1/9/2024 12:37:57 PM,,,,,,,,,,,
+"Source location: ""WHO Mortality Database portal""",,,,,,,,,,,
+"Indicator metadata: X40, X43, X46-X49",,,,,,,,,,,
+,,,,,,,,,,,
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,Age-standardized death rate per 100 000 standard population,Death rate per 100 000 population
+CSA,Central and South America,ARG,Argentina,2015,All,Age00,[0],4,0.05465227,,0.52854053
+CSA,Central and South America,ARG,Argentina,2015,All,Age01_04,[1-4],18,1.45513339,,0.60855918
+CSA,Central and South America,ARG,Argentina,2015,All,Age05_09,[5-9],17,2.53353204,,0.47215153
+CSA,Central and South America,ARG,Argentina,2015,All,Age10_14,[10-14],7,0.85261876,,0.19747971
+CSA,Central and South America,ARG,Argentina,2015,All,Age15_19,[15-19],9,0.33987915,,0.25798056
+CSA,Central and South America,ARG,Argentina,2015,All,Age20_24,[20-24],10,0.28826751,,0.28295619
+CSA,Central and South America,ARG,Argentina,2015,All,Age25_29,[25-29],7,0.22165928,,0.20997155
+CSA,Central and South America,ARG,Argentina,2015,All,Age30_34,[30-34],8,0.22377622,,0.2547632
+CSA,Central and South America,ARG,Argentina,2015,All,Age35_39,[35-39],16,0.36388447,,0.51375169
+CSA,Central and South America,ARG,Argentina,2015,All,Age40_44,[40-44],6,0.11047689,,0.22468536
+CSA,Central and South America,ARG,Argentina,2015,All,Age45_49,[45-49],12,0.16083635,,0.51098816
+CSA,Central and South America,ARG,Argentina,2015,All,Age50_54,[50-54],7,0.06340005,,0.31887261
+CSA,Central and South America,ARG,Argentina,2015,All,Age55_59,[55-59],6,0.03626254,,0.30211572
+CSA,Central and South America,ARG,Argentina,2015,All,Age60_64,[60-64],11,0.04713141,,0.61692114
+CSA,Central and South America,ARG,Argentina,2015,All,Age65_69,[65-69],11,0.03696609,,0.72848985
+CSA,Central and South America,ARG,Argentina,2015,All,Age70_74,[70-74],10,0.02899223,,0.86198871
+CSA,Central and South America,ARG,Argentina,2015,All,Age75_79,[75-79],10,0.02529788,,1.16601079
+CSA,Central and South America,ARG,Argentina,2015,All,Age80_84,[80-84],11,0.0237951,,1.83491136
+CSA,Central and South America,ARG,Argentina,2015,All,Age85_over,[85+],8,0.00911349,,1.61847653
+CSA,Central and South America,ARG,Argentina,2015,All,Age_unknown,[Unknown],13,0.7705987,,
+CSA,Central and South America,ARG,Argentina,2015,Male,Age00,[0],4,0.09727626,,1.03753006
+CSA,Central and South America,ARG,Argentina,2015,Male,Age01_04,[1-4],10,1.47058824,,0.66387706
+CSA,Central and South America,ARG,Argentina,2015,Male,Age05_09,[5-9],8,2.09424084,,0.43641894
+CSA,Central and South America,ARG,Argentina,2015,Male,Age10_14,[10-14],7,1.38613861,,0.38805672
+CSA,Central and South America,ARG,Argentina,2015,Male,Age15_19,[15-19],5,0.25920166,,0.28202889
+CSA,Central and South America,ARG,Argentina,2015,Male,Age20_24,[20-24],3,0.11542901,,0.16785264
+CSA,Central and South America,ARG,Argentina,2015,Male,Age25_29,[25-29],4,0.17913121,,0.23949113
+CSA,Central and South America,ARG,Argentina,2015,Male,Age30_34,[30-34],6,0.24650781,,0.38399607
+CSA,Central and South America,ARG,Argentina,2015,Male,Age35_39,[35-39],14,0.50632911,,0.91283829
+CSA,Central and South America,ARG,Argentina,2015,Male,Age40_44,[40-44],4,0.12169151,,0.30821414
+CSA,Central and South America,ARG,Argentina,2015,Male,Age45_49,[45-49],7,0.1540493,,0.61859752
+CSA,Central and South America,ARG,Argentina,2015,Male,Age50_54,[50-54],5,0.07264274,,0.47682761
+CSA,Central and South America,ARG,Argentina,2015,Male,Age55_59,[55-59],4,0.03848374,,0.42444056
+CSA,Central and South America,ARG,Argentina,2015,Male,Age60_64,[60-64],10,0.06813846,,1.19922914
+CSA,Central and South America,ARG,Argentina,2015,Male,Age65_69,[65-69],7,0.03798774,,1.02046915
+CSA,Central and South America,ARG,Argentina,2015,Male,Age70_74,[70-74],6,0.02933985,,1.20377745
+CSA,Central and South America,ARG,Argentina,2015,Male,Age75_79,[75-79],4,0.01855029,,1.17199632
+CSA,Central and South America,ARG,Argentina,2015,Male,Age80_84,[80-84],5,0.02295579,,2.33288386
+CSA,Central and South America,ARG,Argentina,2015,Male,Age85_over,[85+],4,0.0134721,,2.86709578
+CSA,Central and South America,ARG,Argentina,2015,Male,Age_unknown,[Unknown],12,1.20240481,,
+CSA,Central and South America,ARG,Argentina,2015,Female,Age00,[0],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age01_04,[1-4],8,1.44144144,,0.55115284
+CSA,Central and South America,ARG,Argentina,2015,Female,Age05_09,[5-9],9,3.125,,0.50921106
+CSA,Central and South America,ARG,Argentina,2015,Female,Age10_14,[10-14],0,0,,0
+CSA,Central and South America,ARG,Argentina,2015,Female,Age15_19,[15-19],4,0.55788006,,0.23313189
+CSA,Central and South America,ARG,Argentina,2015,Female,Age20_24,[20-24],7,0.80645161,,0.40072474
+CSA,Central and South America,ARG,Argentina,2015,Female,Age25_29,[25-29],3,0.32502709,,0.1803343
+CSA,Central and South America,ARG,Argentina,2015,Female,Age30_34,[30-34],2,0.17528484,,0.12677043
+CSA,Central and South America,ARG,Argentina,2015,Female,Age35_39,[35-39],2,0.12262416,,0.12652894
+CSA,Central and South America,ARG,Argentina,2015,Female,Age40_44,[40-44],2,0.09332711,,0.14570866
+CSA,Central and South America,ARG,Argentina,2015,Female,Age45_49,[45-49],5,0.17152659,,0.41091455
+CSA,Central and South America,ARG,Argentina,2015,Female,Age50_54,[50-54],2,0.04815796,,0.17442312
+CSA,Central and South America,ARG,Argentina,2015,Female,Age55_59,[55-59],2,0.0325309,,0.19164835
+CSA,Central and South America,ARG,Argentina,2015,Female,Age60_64,[60-64],1,0.01154601,,0.10535432
+CSA,Central and South America,ARG,Argentina,2015,Female,Age65_69,[65-69],4,0.03532321,,0.48542806
+CSA,Central and South America,ARG,Argentina,2015,Female,Age70_74,[70-74],4,0.02850627,,0.60452365
+CSA,Central and South America,ARG,Argentina,2015,Female,Age75_79,[75-79],6,0.03341129,,1.16205653
+CSA,Central and South America,ARG,Argentina,2015,Female,Age80_84,[80-84],6,0.02455494,,1.5578063
+CSA,Central and South America,ARG,Argentina,2015,Female,Age85_over,[85+],4,0.00688824,,1.1274688
+CSA,Central and South America,ARG,Argentina,2015,Female,Age_unknown,[Unknown],1,0.16528926,,
